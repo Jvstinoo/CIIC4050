@@ -1,19 +1,17 @@
 #include <stdio.h>
 
-#include "fill_date.h"
+#include "fill_date_struct.h"
 
 int main() {
   const char *months[] = {"January",   "February", "March",     "April",
                           "May",       "June",     "July",      "August",
                           "September", "October",  "Noviembre", "December"};
   long seconds;
-  int day = 0;
-  int month = 0;
-  int year = 0;
   for (int i = 0; i < 3; i++) {
     printf("Enter seconds: ");
     scanf("%ld", &seconds);
-    FillDate(seconds, &day, &month, &year);
-    printf("%s %d, %d\n", months[month], day, year);
+    struct date filled_date = FillDate(seconds);
+    printf("%s %d, %d\n", months[filled_date.month], filled_date.day,
+           filled_date.year);
   }
 }
