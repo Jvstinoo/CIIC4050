@@ -5,6 +5,12 @@
 #include <stdlib.h>
 #include <time.h>
 
+/**
+ * @brief
+ *
+ * @param base
+ * @param mod
+ */
 void UpperRand(char* base, char* mod) {
   srand(time(NULL));
   int value = rand() % 2 == 0;
