@@ -1,13 +1,11 @@
 CMakeFiles/exercise_4.dir/src/main.c.o: \
  /home/jvstinoo/jvstinoo_code/CIIC4050/Lab1/Exercise4/src/main.c \
- /usr/include/stdc-predef.h \
- /home/jvstinoo/jvstinoo_code/CIIC4050/Lab1/Exercise4/include/upper_rand.h \
- /home/jvstinoo/jvstinoo_code/CIIC4050/Lab1/Exercise4/include/print_arrays.h \
- /usr/include/stdio.h /usr/include/bits/libc-header-start.h \
- /usr/include/features.h /usr/include/features-time64.h \
- /usr/include/bits/wordsize.h /usr/include/bits/timesize.h \
- /usr/include/sys/cdefs.h /usr/include/bits/long-double.h \
- /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/include/stdc-predef.h /usr/include/stdio.h \
+ /usr/include/bits/libc-header-start.h /usr/include/features.h \
+ /usr/include/features-time64.h /usr/include/bits/wordsize.h \
+ /usr/include/bits/timesize.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/long-double.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
  /usr/lib/gcc/x86_64-redhat-linux/14/include/stddef.h \
  /usr/lib/gcc/x86_64-redhat-linux/14/include/stdarg.h \
  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
@@ -35,4 +33,6 @@ CMakeFiles/exercise_4.dir/src/main.c.o: \
  /usr/include/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/bits/stdlib-float.h /usr/include/string.h \
  /usr/include/bits/types/locale_t.h /usr/include/bits/types/__locale_t.h \
- /usr/include/strings.h
+ /usr/include/strings.h \
+ /home/jvstinoo/jvstinoo_code/CIIC4050/Lab1/Exercise4/include/print_arrays.h \
+ /home/jvstinoo/jvstinoo_code/CIIC4050/Lab1/Exercise4/include/upper_rand.h

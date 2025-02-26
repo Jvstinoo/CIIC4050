@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc -g CMakeFiles/exercise_1.dir/src/main.c.o CMakeFiles/exercise_1.dir/src/cosine_series.c.o -o exercise_1  -lm

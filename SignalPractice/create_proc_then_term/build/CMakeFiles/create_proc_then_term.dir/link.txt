@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc CMakeFiles/create_proc_then_term.dir/src/main.c.o CMakeFiles/create_proc_then_term.dir/src/create_proc_then_term.c.o -o create_proc_then_term  -lm

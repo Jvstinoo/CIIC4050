@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc CMakeFiles/printing_args.dir/src/main.c.o CMakeFiles/printing_args.dir/src/printing_args.c.o -o printing_args  -lm

@@ -1,0 +1,4 @@
+#ifndef PRINTING_ARGS_H
+#define PRINTING_ARGS_H
+
+#endif // PRINTING_ARGS_H
