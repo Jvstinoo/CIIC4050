@@ -1,3 +1,0 @@
-/home/jvstinoo/jvstinoo_code/CIIC4050/Lab3_Practice/MQ_RECEIVE/build/CMakeFiles/MQ_RECEIVE.dir
-/home/jvstinoo/jvstinoo_code/CIIC4050/Lab3_Practice/MQ_RECEIVE/build/CMakeFiles/edit_cache.dir
-/home/jvstinoo/jvstinoo_code/CIIC4050/Lab3_Practice/MQ_RECEIVE/build/CMakeFiles/rebuild_cache.dir

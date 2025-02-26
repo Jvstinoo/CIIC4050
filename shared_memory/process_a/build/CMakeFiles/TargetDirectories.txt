@@ -1,3 +1,0 @@
-/home/jvstinoo/jvstinoo_code/CIIC4050/shared_memory/process_a/build/CMakeFiles/process_a.dir
-/home/jvstinoo/jvstinoo_code/CIIC4050/shared_memory/process_a/build/CMakeFiles/edit_cache.dir
-/home/jvstinoo/jvstinoo_code/CIIC4050/shared_memory/process_a/build/CMakeFiles/rebuild_cache.dir

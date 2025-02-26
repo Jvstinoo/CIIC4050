@@ -1,3 +1,0 @@
-/home/jvstinoo/jvstinoo_code/CIIC4050/Lab2/P2/process_b/build/CMakeFiles/process_b.dir
-/home/jvstinoo/jvstinoo_code/CIIC4050/Lab2/P2/process_b/build/CMakeFiles/edit_cache.dir
-/home/jvstinoo/jvstinoo_code/CIIC4050/Lab2/P2/process_b/build/CMakeFiles/rebuild_cache.dir

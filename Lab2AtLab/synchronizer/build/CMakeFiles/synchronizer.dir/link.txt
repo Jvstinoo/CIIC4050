@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/synchronizer.dir/src/main.c.o -o synchronizer  -lm 
