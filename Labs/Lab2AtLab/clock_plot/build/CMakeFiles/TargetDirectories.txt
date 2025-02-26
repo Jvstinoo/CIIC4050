@@ -1,0 +1,3 @@
+/home/fslabs/os_100_7/Desktop/Lab3/clock_plot/build/CMakeFiles/clock_plot.dir
+/home/fslabs/os_100_7/Desktop/Lab3/clock_plot/build/CMakeFiles/edit_cache.dir
+/home/fslabs/os_100_7/Desktop/Lab3/clock_plot/build/CMakeFiles/rebuild_cache.dir

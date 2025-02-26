@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc CMakeFiles/process_b.dir/src/main.c.o -o process_b  -lm

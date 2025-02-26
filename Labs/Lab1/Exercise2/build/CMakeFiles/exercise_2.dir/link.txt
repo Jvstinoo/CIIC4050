@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc CMakeFiles/exercise_2.dir/src/main.c.o CMakeFiles/exercise_2.dir/src/fill_date.c.o -o exercise_2

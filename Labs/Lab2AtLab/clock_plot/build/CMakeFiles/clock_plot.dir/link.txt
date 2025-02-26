@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/clock_plot.dir/src/main.c.o -o clock_plot  -lm 
