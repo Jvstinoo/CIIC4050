@@ -18,9 +18,9 @@ Provides a standardized set of APIs and command-line utilities, which allows for
 
 ### Standard streams
 A process can use the following streams:
-    - 0 - stdin (input from keyboard)
-    - 1 - stdout
-    - 2 - stderr
+- 0 - stdin (input from keyboard)
+- 1 - stdout
+- 2 - stderr
 
 ### Monolithic Structure - Original UNIX
 - Simple, fast, and efficient OS with a single kernel that manages all of its core services.
