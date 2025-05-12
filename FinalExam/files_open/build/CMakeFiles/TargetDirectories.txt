@@ -1,0 +1,3 @@
+/home/juan/Documents/OS/class_examples/complete_examples/files_open/build/CMakeFiles/files_open.dir
+/home/juan/Documents/OS/class_examples/complete_examples/files_open/build/CMakeFiles/edit_cache.dir
+/home/juan/Documents/OS/class_examples/complete_examples/files_open/build/CMakeFiles/rebuild_cache.dir

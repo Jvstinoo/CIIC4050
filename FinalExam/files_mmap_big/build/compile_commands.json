@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/juan/Documents/OS/2025S/class_examples/complete_examples/2025S/files/files_mmap_big/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/files_mmap.dir/src/main.c.o -c /home/juan/Documents/OS/2025S/class_examples/complete_examples/2025S/files/files_mmap_big/src/main.c",
+  "file": "/home/juan/Documents/OS/2025S/class_examples/complete_examples/2025S/files/files_mmap_big/src/main.c",
+  "output": "CMakeFiles/files_mmap.dir/src/main.c.o"
+}
+]

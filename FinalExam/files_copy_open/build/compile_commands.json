@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/juan/Documents/OS/2025S/class_examples/complete_examples/2025S/files/files_copy_open/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/file_copy.dir/src/main.c.o -c /home/juan/Documents/OS/2025S/class_examples/complete_examples/2025S/files/files_copy_open/src/main.c",
+  "file": "/home/juan/Documents/OS/2025S/class_examples/complete_examples/2025S/files/files_copy_open/src/main.c",
+  "output": "CMakeFiles/file_copy.dir/src/main.c.o"
+}
+]

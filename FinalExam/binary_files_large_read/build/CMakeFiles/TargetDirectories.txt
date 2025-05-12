@@ -1,0 +1,3 @@
+/home/jvstinoo/Downloads/binary_files_large_read/build/CMakeFiles/binary_files_large.dir
+/home/jvstinoo/Downloads/binary_files_large_read/build/CMakeFiles/edit_cache.dir
+/home/jvstinoo/Downloads/binary_files_large_read/build/CMakeFiles/rebuild_cache.dir

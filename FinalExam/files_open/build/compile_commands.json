@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/juan/Documents/OS/class_examples/complete_examples/files_open/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/files_open.dir/src/main.c.o -c /home/juan/Documents/OS/class_examples/complete_examples/files_open/src/main.c",
+  "file": "/home/juan/Documents/OS/class_examples/complete_examples/files_open/src/main.c",
+  "output": "CMakeFiles/files_open.dir/src/main.c.o"
+}
+]

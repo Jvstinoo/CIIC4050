@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lab5_coded_image.dir/src/main.c.o -o lab5_coded_image  -lm

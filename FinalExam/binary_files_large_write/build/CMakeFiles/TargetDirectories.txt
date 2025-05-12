@@ -1,0 +1,3 @@
+/home/jvstinoo/jvstinoo_code/CIIC4050/FinalExam/binary_files_large_write/build/CMakeFiles/binary_files_large.dir
+/home/jvstinoo/jvstinoo_code/CIIC4050/FinalExam/binary_files_large_write/build/CMakeFiles/edit_cache.dir
+/home/jvstinoo/jvstinoo_code/CIIC4050/FinalExam/binary_files_large_write/build/CMakeFiles/rebuild_cache.dir
