@@ -11,16 +11,22 @@ int main(int argc, char* argv[]) {
   int rows = atoi(argv[2]);
   int columns = atoi(argv[3]);
 
-  FILE* fptr = fopen(path_file, "wb+");
-  FILE* output_file = fopen("data.csv", "wb+");
+  FILE* fptr = fopen(path_file, "rb");
+  if (fptr == NULL) {
+    printf("Was unable to open the file.\n");
+    exit(0);
+  }
+
+  FILE* output_file = fopen("data.csv", "w");
 
   float row_numbers[columns];
 
   for (int i = 0; i < rows; i++) {
-    fread(&row_numbers, columns * sizeof(float), columns, fptr);
+    fread(row_numbers, sizeof(float), columns, fptr);
     for (int j = 0; j < columns; j++) {
-      printf("NUM = %f", row_numbers[j]);
-      fprintf(output_file, "%f", -(row_numbers[j] / 5));
+      float new_value = -(row_numbers[j] / 5);
+      printf("%f, ", new_value);
+      fprintf(output_file, "%f", new_value);
       if (j < columns - 1) {
         fprintf(output_file, ",");
       }

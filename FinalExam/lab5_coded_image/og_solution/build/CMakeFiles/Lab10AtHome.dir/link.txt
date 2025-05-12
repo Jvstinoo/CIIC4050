@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Lab10AtHome.dir/src/main.c.o CMakeFiles/Lab10AtHome.dir/src/DecodeBinaryToCSV.c.o -o Lab10AtHome  -lm 
